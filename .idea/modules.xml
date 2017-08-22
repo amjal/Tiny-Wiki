@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Search_Engine.iml" filepath="$PROJECT_DIR$/Search_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/..//Tiny_Wiki.iml" filepath="$PROJECT_DIR$/..//Tiny_Wiki.iml" />
     </modules>
   </component>
 </project>
